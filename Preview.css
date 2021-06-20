@@ -54,7 +54,6 @@ p {
 .container .card ul li {
 	margin-bottom: 20px;
 	text-transform: uppercase;
-	color: ;
 	font-size: 12px;
 	color: var(--slightly-transparent-white);
 }
@@ -82,7 +81,7 @@ p {
 }
 
 .attribution {
-	font-size: 11px;
+	font-size: 15px;
 	text-align: center;
 	color: white;
 	padding-bottom: 20px;
@@ -146,8 +145,3 @@ p {
 		margin-bottom: 50px;
 	}
 }
-/* ## Layout The designs were created to the following widths:
-
-- Mobile: 375px
-- Desktop: 1440px
- */
